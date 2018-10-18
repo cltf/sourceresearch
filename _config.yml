@@ -1,4 +1,18 @@
 theme: jekyll-theme-cayman
-title: 源码爱好者
-description: PHP7、Redis5、Nginx、Go、Linux、beanstalk，memcache等源码的爱好者。
 show_downloads:false
+
+# Site settings
+title: 源码爱好者                     #你博客的标题
+SEOTitle: 源码爱好者         #显示在浏览器上搜索的时候显示的标题
+header-img: img/matrix.jpg     #显示在首页的背景图片
+email: cltf@163.com    
+description: "PHP7、Redis5、Nginx、Go、Linux、beanstalk，memcache等源码的爱好者。"              #网站介绍
+keyword: "PHP7、Redis5、Nginx、Go、Linux、beanstalk，memcache等源码的爱好者。  陈雷 李乐 黄桃 施洪宝 季伟滨 闫昌 李志 王坤 肖涛 谭淼 张仕华 方波 周生政 熊浩含 李长林 朱栋" #关键词
+url: "https://cltf.github.io"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个我们不用填写
+
+
+# Sidebar settings
+sidebar: true                           # 是否开启侧边栏.
+sidebar-about-description: "你好"
+sidebar-avatar:img/matrix.jpg     
