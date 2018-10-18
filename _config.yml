@@ -1,1 +1,4 @@
-jekyll-theme-leap-day
+theme: jekyll-theme-cayman
+title: 源码爱好者
+description: PHP7、Redis5、Nginx、Go、Linux、beanstalk，memcache等源码的爱好者。
+show_downloads:false
